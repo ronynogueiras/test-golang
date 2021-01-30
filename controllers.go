@@ -2,6 +2,7 @@ package controllers
 
 import "fmt"
 
-func info() {
+// Info Function
+func Info() {
 	fmt.Println("info")
 }
